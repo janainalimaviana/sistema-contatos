@@ -45,7 +45,9 @@ Desenvolvido como atividade prática da disciplina **Programação para Internet
 ## 📂 Estrutura do Projeto
 
 sistema_contatos/
+
 ├── api-contatos/ ← API REST em PHP
+
 ├── front-contatos/ ← Interface visual (HTML/PHP/CSS)
 
 ---
